@@ -109,13 +109,14 @@ analytics:
 author:
   name             : "Im Hyunsuk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "- 기술로 세상의 문제 풀기
-                      - 프로그래밍 교육"
+  bio              : """
+                      - 기술로 세상의 문제 풀기
+                      - 프로그래밍 교육
+                     """
   location         : ""
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    - icon: "fas fa-fw fa-envelope-square"
       url: mailto:better.imhs@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
