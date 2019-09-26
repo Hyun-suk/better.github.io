@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Im Hyunsuk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " - 기술로 세상의 문제 풀기 <br/> - 프로그래밍 교육"
+  bio              : "- 기술로 세상의 문제 풀기<br/>- 프로그래밍 교육"
   location         : 
   email            : "better.imhs@gmail.com"
   links:
