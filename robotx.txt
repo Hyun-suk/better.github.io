@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://imhyunsuk.github.io/sitemap.xml
